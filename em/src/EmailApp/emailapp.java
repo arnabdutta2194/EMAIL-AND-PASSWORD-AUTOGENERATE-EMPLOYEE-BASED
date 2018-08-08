@@ -1,3 +1,10 @@
+/* Author- Arnab Dutta
+ * Date- 5/8/18
+ * Email and Password Autogenerate Application 
+ * 
+ */
+
+
 package EmailApp;
 
 
